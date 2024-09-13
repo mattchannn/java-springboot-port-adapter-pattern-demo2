@@ -1,7 +1,7 @@
 package io.reflectoring.buckpal.account.adapter.in.web;
 
 import io.reflectoring.buckpal.account.application.port.in.SendMoneyUseCase;
-import io.reflectoring.buckpal.account.application.port.in.SendMoneyCommand;
+import io.reflectoring.buckpal.account.application.port.in.command.SendMoneyCommand;
 import io.reflectoring.buckpal.common.WebAdapter;
 import io.reflectoring.buckpal.account.domain.Account.AccountId;
 import io.reflectoring.buckpal.account.domain.Money;

@@ -1,4 +1,4 @@
-package io.reflectoring.buckpal.account.application.port.in;
+package io.reflectoring.buckpal.account.application.port.in.command;
 
 import io.reflectoring.buckpal.account.domain.Account.AccountId;
 import io.reflectoring.buckpal.account.domain.Money;
