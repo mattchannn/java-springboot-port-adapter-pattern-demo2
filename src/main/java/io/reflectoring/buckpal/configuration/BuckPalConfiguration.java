@@ -1,4 +1,4 @@
-package io.reflectoring.buckpal;
+package io.reflectoring.buckpal.configuration;
 
 import io.reflectoring.buckpal.account.application.service.MoneyTransferProperties;
 import io.reflectoring.buckpal.account.domain.Money;

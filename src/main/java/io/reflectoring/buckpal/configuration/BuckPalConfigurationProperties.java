@@ -1,4 +1,4 @@
-package io.reflectoring.buckpal;
+package io.reflectoring.buckpal.configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
