@@ -1,10 +1,12 @@
 package io.reflectoring.buckpal.account.adapter.out.persistence;
 
-import javax.persistence.EntityNotFoundException;
+import jakarta.persistence.EntityNotFoundException;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
+import io.reflectoring.buckpal.account.adapter.out.persistence.entity.AccountJpaEntity;
+import io.reflectoring.buckpal.account.adapter.out.persistence.entity.ActivityJpaEntity;
 import io.reflectoring.buckpal.account.application.port.out.LoadAccountPort;
 import io.reflectoring.buckpal.account.application.port.out.UpdateAccountStatePort;
 import io.reflectoring.buckpal.account.domain.Account;

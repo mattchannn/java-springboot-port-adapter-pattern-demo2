@@ -2,6 +2,7 @@ package io.reflectoring.buckpal.account.adapter.out.persistence;
 
 import java.time.LocalDateTime;
 
+import io.reflectoring.buckpal.account.adapter.out.persistence.entity.ActivityJpaEntity;
 import io.reflectoring.buckpal.account.domain.Account;
 import io.reflectoring.buckpal.account.domain.Account.AccountId;
 import io.reflectoring.buckpal.account.domain.ActivityWindow;

@@ -3,6 +3,8 @@ package io.reflectoring.buckpal.account.adapter.out.persistence;
 import java.util.ArrayList;
 import java.util.List;
 
+import io.reflectoring.buckpal.account.adapter.out.persistence.entity.AccountJpaEntity;
+import io.reflectoring.buckpal.account.adapter.out.persistence.entity.ActivityJpaEntity;
 import io.reflectoring.buckpal.account.domain.Account;
 import io.reflectoring.buckpal.account.domain.Account.AccountId;
 import io.reflectoring.buckpal.account.domain.Activity;
